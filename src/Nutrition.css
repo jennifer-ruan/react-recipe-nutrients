@@ -1,0 +1,28 @@
+.column{
+  float: left;
+  width: 50%;
+}
+
+.column.right{
+  background-color: #6CA5B6;
+  color: #25272B;
+}
+
+ul {
+    list-style-type: none;
+
+  }
+
+form{
+  background-color: #3D5462;
+
+}
+
+input{
+  padding: 0.5em;
+  margin: 2.5em;
+}
+
+input[type=number]{
+  width: 3em;
+}
